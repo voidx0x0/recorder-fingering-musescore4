@@ -2,8 +2,8 @@
 
 This is a ported version of a plugin made by yonah-ag to be compatible with MuseScore 4.
 Link to original plugin: https://github.com/yonah-ag/musescore-recorder-fingering
-[
-![[Recorded01-UI.png]]](https://github.com/voidx0x0/recorder-fingering-musescore4/blob/main/images/Recorded01-UI.png)
+
+https://github.com/voidx0x0/recorder-fingering-musescore4/blob/main/images/Recorded01-UI.png
 
 ### Installation
 
