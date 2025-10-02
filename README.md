@@ -19,12 +19,10 @@ Pick hole size/offsets and click "Apply".
 
 ![02](https://github.com/voidx0x0/recorder-fingering-musescore4/blob/main/images/Recorded02-UI.jpg)
 
-**Recorder.mscz** : Musescore file for testing the plugin  
-
 Link to original plugin  
 https://github.com/yonah-ag/musescore-recorder-fingering
 
-Musescore file for testing the plugin  
+MuseScore 4 file for testing the plugin  
 https://github.com/voidx0x0/recorder-fingering-musescore4/blob/main/Recorder.mscz
 
 Official MuseScore Project page for this plugin  
