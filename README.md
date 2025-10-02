@@ -3,8 +3,6 @@
 A MuseScore plugin originally developed by [yonah-ag] for MuseScore 3.  
 This fork updates the codebase to support MuseScore 4 (Qt6) while maintaining the original functionality.
 
-Link to original plugin: https://github.com/yonah-ag/musescore-recorder-fingering
-
 ![01](https://github.com/voidx0x0/recorder-fingering-musescore4/blob/main/images/Recorded01-UI.png)
 
 ### Installation
@@ -22,6 +20,9 @@ Pick hole size/offsets and click "Apply".
 ![02](https://github.com/voidx0x0/recorder-fingering-musescore4/blob/main/images/Recorded02-UI.jpg)
 
 **Recorder.mscz** : Musescore file for testing the plugin  
+
+Link to original plugin
+https://github.com/yonah-ag/musescore-recorder-fingering
 
 Official MuseScore Project page for this plugin  
 https://musescore.org/en/project/apply-recorder-fingering-glyphs-score
