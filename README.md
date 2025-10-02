@@ -3,7 +3,7 @@
 This is a ported version of a plugin made by yonah-ag to be compatible with MuseScore 4.
 Link to original plugin: https://github.com/yonah-ag/musescore-recorder-fingering
 
-https://github.com/voidx0x0/recorder-fingering-musescore4/blob/main/images/Recorded01-UI.png
+![01](https://github.com/voidx0x0/recorder-fingering-musescore4/blob/main/images/Recorded01-UI.png)
 
 ### Installation
 
@@ -17,7 +17,7 @@ RecorderFont.ttf is a freeware font by algomgom and was downloaded from: https:/
 The plugin covers the note range C5 to C7 (Soprano).
 Pick hole size/offsets and click "Apply".
 
-[![[Recorded02-UI 1.jpg]]](https://github.com/voidx0x0/recorder-fingering-musescore4/blob/main/images/Recorded02-UI.jpg)
+![02](https://github.com/voidx0x0/recorder-fingering-musescore4/blob/main/images/Recorded02-UI.jpg)
 
 **Recorder.mscz** : Musescore file for testing the plugin  
 
