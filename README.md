@@ -26,4 +26,4 @@ MuseScore 4 file for testing the plugin
 https://github.com/voidx0x0/recorder-fingering-musescore4/blob/main/Recorder.mscz
 
 Official MuseScore Project page for this plugin  
-https://musescore.org/en/project/apply-recorder-fingering-glyphs-score
+https://musescore.org/en/project/recorder-fingering-1
